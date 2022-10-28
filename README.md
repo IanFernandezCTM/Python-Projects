@@ -1,5 +1,5 @@
 # Python-Projects
-[Data Analysis] - Projetcs that use python to analyzze data.
+[Data Analysis] - Projetcs that use python to analyze data.
 
 [Milestone Project] - Projects that combine multiple concepts together. 
 
