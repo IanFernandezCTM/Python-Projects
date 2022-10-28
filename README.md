@@ -1,7 +1,4 @@
 # Python-Projects
-Guide to tags
-
-
 [Data Analysis] - Projetcs that use python to analyzze data.
 
 [Milestone Project] - Projects that combine multiple concepts together. 
