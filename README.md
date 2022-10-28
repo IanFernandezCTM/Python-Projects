@@ -1,2 +1,5 @@
 # Python-Projects
-Hi There! Welcome to my python projects. I am a firm believer that projects are the best way to learn. I love diving into different projects to hone my skills as a Data Analyst and Pythonista. 
+Guide to tags
+[Data Analysis] - Projetcs that use python to analyzze data,
+[Milestone Project] - Projects that combine multiple concepts together. 
+[Mini Game] - Small scale projects used to learn new concepts
